@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Learn.qml</file>
+        <file>Word.qml</file>
+        <file>Folder.qml</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>zap.wav</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>Grateful.jpg</file>
+        <file>carejpg.jpg</file>
+        <file>erase.jpg</file>
+        <file>imagesSys/back.png</file>
+        <file>imagesSys/back@2x.png</file>
+        <file>imagesSys/back@3x.png</file>
+        <file>imagesSys/back@4x.png</file>
+        <file>imagesSys/drawer.png</file>
+        <file>imagesSys/drawer@2x.png</file>
+        <file>imagesSys/drawer@3x.png</file>
+        <file>imagesSys/drawer@4x.png</file>
+        <file>imagesSys/menu.png</file>
+        <file>imagesSys/menu@2x.png</file>
+        <file>imagesSys/menu@3x.png</file>
+        <file>imagesSys/menu@4x.png</file>
+        <file>Around.jpg</file>
+        <file>Improved.jpg</file>
+        <file>Maid.jpg</file>
+        <file>Nervous.jpg</file>
+        <file>Survival.jpg</file>
+        <file>audios.jpg</file>
+        <file>daw.jpeg</file>
+        <file>audios_true.jpg</file>
+        <file>pen.png</file>
+        <file>folder_icon.png</file>
+        <file>Imagination.jpg</file>
+        <file>Hiccup.jpg</file>
+        <file>Unreliable.jpg</file>
+        <file>Drag.jpg</file>
+        <file>Palatable.jpg</file>
+        <file>Modest.jpg</file>
+        <file>Infinity.jpg</file>
+        <file>Founder.jpg</file>
+        <file>Wanted.jpg</file>
+        <file>Adult.jpg</file>
+    </qresource>
+    <qresource prefix="/BD">
+        <file>word.db</file>
+    </qresource>
+</RCC>
